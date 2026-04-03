@@ -1,2 +1,3 @@
-# Smart-Resource-Allocator
-Google Solution Challenge 2026 — Smart Resource Allocation
+# Frontend — Nishta
+HTML, CSS, JS files for all screens.
+Branch: Nish-frontend
