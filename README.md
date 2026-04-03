@@ -2,7 +2,7 @@
 
 Google Solution Challenge 2026
 
-Team: Zizi (lead) · Gap (frontend) · Dodo (backend) · Niya (deployment)
+Team: Alfiya.K (lead) · Nishta.M (frontend) · Saniya.K (backend) · Saniya.S (deployment)
 
 Stack: HTML/CSS/JS · Firebase · Firestore · Gemini API · Firebase Hosting
 
